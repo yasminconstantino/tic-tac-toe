@@ -33,15 +33,15 @@
     border: 2px solid #575656;
     color: #7d6080;
     float: left;
-    font-size: 48px; /* Increased from 24px */
+    font-size: 48px;
     font-weight: bold;
-    line-height: 68px; /* Increased from 34px */
-    height: 68px; /* Increased from 34px */
+    line-height: 68px;
+    height: 68px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 68px; /* Increased from 34px */
+    width: 68px;
   }
   
   .board-row:after {
