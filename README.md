@@ -5,7 +5,7 @@
   <p>This is a simple and pretty cute Tic Tac Toe game.</p>
   <p>I made it using HTML, CSS and Javascript.</p>
 
-<img src="print.png" width="500"/>
+<img src="icons/print.png" width="500"/>
   
   <p>You can check the page, and see it working <a href="https://yasminconstantino.github.io/Calendar-and-clock/">here</a></p>
 
