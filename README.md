@@ -11,9 +11,9 @@
 
   <h4> Languages and Technologies:</h4>
   <div>
-    <img src="html.png" width="48"/>
-    <img src="css.png" width="48"/>
-    <img src="javascript.png" width="48"/>
+    <img src="icons/html.png" width="48"/>
+    <img src="icons/css.png" width="48"/>
+    <img src="icons/javascript.png" width="48"/>
   </div>
 <br>
 <h5>...</h5>
@@ -28,9 +28,9 @@
     <p>Você pode acessar a página e ver ela funcionando <a href="https://yasminconstantino.github.io/tic-tac-toe/">aqui</a></p>
     <h4>Linguagens e tecnologias utilizadas:</h4>
     <div>
-    <img src="html.png" width="38"/>
-    <img src="css.png" width="38"/>
-    <img src="javascript.png" width="38"/>
+    <img src="icons/html.png" width="38"/>
+    <img src="icons/css.png" width="38"/>
+    <img src="icons/javascript.png" width="38"/>
     </div>
   </details>
 </section>
