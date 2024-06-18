@@ -7,7 +7,7 @@
 
 <img src="icons/print.png" width="500"/>
   
-  <p>You can check the page, and see it working <a href="https://yasminconstantino.github.io/Calendar-and-clock/">here</a></p>
+  <p>You can check the page, and see it working <a href="https://yasminconstantino.github.io/tic-tac-toe/">here</a></p>
 
   <h4> Languages and Technologies:</h4>
   <div>
@@ -16,7 +16,7 @@
     <img src="icons/javascript.png" width="48"/>
   </div>
 <br>
-<h5>...</h5>
+
 <br>
 <section>
   <details>
