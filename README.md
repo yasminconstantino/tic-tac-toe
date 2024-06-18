@@ -7,7 +7,7 @@
 
 <img src="icons/print.png" width="500"/>
   
-  <p>You can check the page, and see it working <a href="https://yasminconstantino.github.io/tic-tac-toe/">here</a></p>
+  <p>You can check the page, play and see it working <a href="https://yasminconstantino.github.io/tic-tac-toe/">here</a></p>
 
   <h4> Languages and Technologies:</h4>
   <div>
@@ -25,7 +25,7 @@
     <p>Esse é um jogo da velha simples e fofo.</p>
     <br>
     <p>Eu fiz ele usando HTML, CSS e Javascript.</p>
-    <p>Você pode acessar a página e ver ela funcionando <a href="https://yasminconstantino.github.io/tic-tac-toe/">aqui</a></p>
+    <p>Você pode acessar a página, jogar e ver ele funcionando <a href="https://yasminconstantino.github.io/tic-tac-toe/">aqui</a></p>
     <h4>Linguagens e tecnologias utilizadas:</h4>
     <div>
     <img src="icons/html.png" width="38"/>
